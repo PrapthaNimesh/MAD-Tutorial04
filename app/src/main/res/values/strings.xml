@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ClassApp</string>
+    <string name="editPwd">Password</string>
+    <string name="editName">Name</string>
+    <string name="add">ADD</string>
+    <string name="signin">SIGN IN</string>
+    <string name="delete">DELETE</string>
+    <string name="update">UPDATE</string>
+    <string name="txtUN">User name</string>
+    <string name="txtPwd">Password</string>
+</resources>
